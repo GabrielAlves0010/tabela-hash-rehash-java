@@ -1,0 +1,131 @@
+=== INSERCAO (seed 1090, tabela de 100 posicoes, limite de 90 elementos) ===
+Tentativa 1: valor 707 | hash inicial 7 | posicao final 7 | colisoes 0
+Tentativa 2: valor 830 | hash inicial 30 | posicao final 30 | colisoes 0
+Tentativa 3: valor 814 | hash inicial 14 | posicao final 14 | colisoes 0
+Tentativa 4: valor 689 | hash inicial 89 | posicao final 89 | colisoes 0
+Tentativa 5: valor 820 | hash inicial 20 | posicao final 20 | colisoes 0
+Tentativa 6: valor 233 | hash inicial 33 | posicao final 33 | colisoes 0
+Tentativa 7: valor 392 | hash inicial 92 | posicao final 92 | colisoes 0
+Tentativa 8: valor 613 | hash inicial 13 | posicao final 13 | colisoes 0
+Tentativa 9: valor 364 | hash inicial 64 | posicao final 64 | colisoes 0
+Tentativa 10: valor 789 | hash inicial 89 | posicao final 90 | colisoes 1
+Tentativa 11: valor 8 | hash inicial 8 | posicao final 8 | colisoes 0
+Tentativa 12: valor 324 | hash inicial 24 | posicao final 24 | colisoes 0
+Tentativa 13: valor 751 | hash inicial 51 | posicao final 51 | colisoes 0
+Tentativa 14: valor 456 | hash inicial 56 | posicao final 56 | colisoes 0
+Tentativa 15: valor 974 | hash inicial 74 | posicao final 74 | colisoes 0
+Tentativa 16: valor 699 | hash inicial 99 | posicao final 99 | colisoes 0
+Tentativa 17: valor 168 | hash inicial 68 | posicao final 68 | colisoes 0
+Tentativa 18: valor 691 | hash inicial 91 | posicao final 91 | colisoes 0
+Tentativa 19: valor 711 | hash inicial 11 | posicao final 11 | colisoes 0
+Tentativa 20: valor 883 | hash inicial 83 | posicao final 83 | colisoes 0
+Tentativa 21: valor 842 | hash inicial 42 | posicao final 42 | colisoes 0
+Tentativa 22: valor 148 | hash inicial 48 | posicao final 48 | colisoes 0
+Tentativa 23: valor 74 | hash inicial 74 | posicao final 75 | colisoes 1
+Tentativa 24: valor 299 | hash inicial 99 | posicao final 0 | colisoes 1
+Tentativa 25: valor 719 | hash inicial 19 | posicao final 19 | colisoes 0
+Tentativa 26: valor 752 | hash inicial 52 | posicao final 52 | colisoes 0
+Tentativa 27: valor 766 | hash inicial 66 | posicao final 66 | colisoes 0
+Tentativa 28: valor 422 | hash inicial 22 | posicao final 22 | colisoes 0
+Tentativa 29: valor 509 | hash inicial 9 | posicao final 9 | colisoes 0
+Tentativa 30: valor 861 | hash inicial 61 | posicao final 61 | colisoes 0
+Tentativa 31: valor 482 | hash inicial 82 | posicao final 82 | colisoes 0
+Tentativa 32: valor 862 | hash inicial 62 | posicao final 62 | colisoes 0
+Tentativa 33: valor 113 | hash inicial 13 | posicao final 15 | colisoes 2
+Tentativa 34: valor 769 | hash inicial 69 | posicao final 69 | colisoes 0
+Tentativa 35: valor 823 | hash inicial 23 | posicao final 23 | colisoes 0
+Tentativa 36: valor 365 | hash inicial 65 | posicao final 65 | colisoes 0
+Tentativa 37: valor 507 | hash inicial 7 | posicao final 10 | colisoes 3
+Tentativa 38: valor 635 | hash inicial 35 | posicao final 35 | colisoes 0
+Tentativa 39: valor 960 | hash inicial 60 | posicao final 60 | colisoes 0
+Tentativa 40: valor 460 | hash inicial 60 | posicao final 63 | colisoes 3
+Tentativa 41: valor 129 | hash inicial 29 | posicao final 29 | colisoes 0
+Tentativa 42: valor 868 | hash inicial 68 | posicao final 70 | colisoes 2
+Tentativa 43: valor 514 | hash inicial 14 | posicao final 16 | colisoes 2
+Tentativa 44: valor 650 | hash inicial 50 | posicao final 50 | colisoes 0
+Tentativa 45: valor 720 | hash inicial 20 | posicao final 21 | colisoes 1
+Tentativa 46: valor 625 | hash inicial 25 | posicao final 25 | colisoes 0
+Tentativa 47: valor 414 | hash inicial 14 | posicao final 17 | colisoes 3
+Tentativa 48: valor 146 | hash inicial 46 | posicao final 46 | colisoes 0
+Tentativa 49: valor 828 | hash inicial 28 | posicao final 28 | colisoes 0
+Tentativa 50: valor 328 | hash inicial 28 | posicao final 31 | colisoes 3
+Tentativa 51: valor 843 | hash inicial 43 | posicao final 43 | colisoes 0
+Tentativa 52: valor 506 | hash inicial 6 | posicao final 6 | colisoes 0
+Tentativa 53: valor 553 | hash inicial 53 | posicao final 53 | colisoes 0
+Tentativa 54: valor 765 | hash inicial 65 | posicao final 67 | colisoes 2
+Tentativa 55: valor 768 | hash inicial 68 | posicao final 71 | colisoes 3
+Tentativa 56: valor 979 | hash inicial 79 | posicao final 79 | colisoes 0
+Tentativa 57: valor 642 | hash inicial 42 | posicao final 44 | colisoes 2
+Tentativa 58: valor 144 | hash inicial 44 | posicao final 45 | colisoes 1
+Tentativa 59: valor 407 | hash inicial 7 | posicao final 12 | colisoes 5
+Tentativa 60: valor 810 | hash inicial 10 | posicao final 18 | colisoes 8
+Tentativa 61: valor 951 | hash inicial 51 | posicao final 54 | colisoes 3
+Tentativa 62: valor 220 | hash inicial 20 | posicao final 26 | colisoes 6
+Tentativa 63: valor 573 | hash inicial 73 | posicao final 73 | colisoes 0
+Tentativa 64: valor 682 | hash inicial 82 | posicao final 84 | colisoes 2
+Tentativa 65: valor 596 | hash inicial 96 | posicao final 96 | colisoes 0
+Tentativa 66: valor 654 | hash inicial 54 | posicao final 55 | colisoes 1
+Tentativa 67: valor 894 | hash inicial 94 | posicao final 94 | colisoes 0
+Tentativa 68: valor 563 | hash inicial 63 | posicao final 72 | colisoes 9
+Tentativa 69: valor 859 | hash inicial 59 | posicao final 59 | colisoes 0
+Tentativa 70: valor 264 | hash inicial 64 | posicao final 76 | colisoes 12
+Tentativa 71: valor 398 | hash inicial 98 | posicao final 98 | colisoes 0
+Tentativa 72: valor 747 | hash inicial 47 | posicao final 47 | colisoes 0
+Tentativa 73: valor 692 | hash inicial 92 | posicao final 93 | colisoes 1
+Tentativa 74: valor 954 | hash inicial 54 | posicao final 57 | colisoes 3
+Tentativa 75: valor 663 | hash inicial 63 | posicao final 77 | colisoes 14
+Tentativa 76: valor 675 | hash inicial 75 | posicao final 78 | colisoes 3
+Tentativa 77: valor 355 | hash inicial 55 | posicao final 58 | colisoes 3
+Tentativa 78: valor 141 | hash inicial 41 | posicao final 41 | colisoes 0
+Tentativa 79: valor 487 | hash inicial 87 | posicao final 87 | colisoes 0
+Tentativa 80: valor 839 | hash inicial 39 | posicao final 39 | colisoes 0
+Tentativa 81: valor 785 | hash inicial 85 | posicao final 85 | colisoes 0
+Tentativa 82: valor 583 | hash inicial 83 | posicao final 86 | colisoes 3
+Tentativa 83: valor 435 | hash inicial 35 | posicao final 36 | colisoes 1
+Tentativa 84: valor 163 | hash inicial 63 | posicao final 80 | colisoes 17
+Tentativa 85: valor 39 | hash inicial 39 | posicao final 40 | colisoes 1
+Tentativa 86: valor 470 | hash inicial 70 | posicao final 81 | colisoes 11
+Tentativa 87: valor 950 | hash inicial 50 | posicao final 88 | colisoes 38
+Tentativa 88: valor 31 | hash inicial 31 | posicao final 32 | colisoes 1
+Tentativa 89: valor 545 | hash inicial 45 | posicao final 49 | colisoes 4
+Tentativa 90: valor 774 | hash inicial 74 | posicao final 95 | colisoes 21
+Tentativa 91: valor 813 BLOQUEADO pelo limite de 90% de ocupacao
+Tentativa 92: valor 590 BLOQUEADO pelo limite de 90% de ocupacao
+Tentativa 93: valor 242 BLOQUEADO pelo limite de 90% de ocupacao
+Tentativa 94: valor 276 BLOQUEADO pelo limite de 90% de ocupacao
+Tentativa 95: valor 551 BLOQUEADO pelo limite de 90% de ocupacao
+Tentativa 96: valor 440 BLOQUEADO pelo limite de 90% de ocupacao
+Tentativa 97: valor 280 BLOQUEADO pelo limite de 90% de ocupacao
+Tentativa 98: valor 710 BLOQUEADO pelo limite de 90% de ocupacao
+Tentativa 99: valor 81 BLOQUEADO pelo limite de 90% de ocupacao
+Tentativa 100: valor 109 BLOQUEADO pelo limite de 90% de ocupacao
+
+=== RELATORIO FINAL ===
+Total de elementos inseridos: 90
+Total de elementos bloqueados: 10
+Total de colisoes na insercao: 197
+
+Os 3 elementos que mais colidiram:
+1o lugar: valor 950 | colisoes 38 | posicao final 88
+2o lugar: valor 774 | colisoes 21 | posicao final 95
+3o lugar: valor 163 | colisoes 17 | posicao final 80
+
+Matriz final:
+0: 299 | 1: LIVRE | 2: LIVRE | 3: LIVRE | 4: LIVRE | 5: LIVRE | 6: 506 | 7: 707 | 8: 8 | 9: 509 | 
+10: 507 | 11: 711 | 12: 407 | 13: 613 | 14: 814 | 15: 113 | 16: 514 | 17: 414 | 18: 810 | 19: 719 | 
+20: 820 | 21: 720 | 22: 422 | 23: 823 | 24: 324 | 25: 625 | 26: 220 | 27: LIVRE | 28: 828 | 29: 129 | 
+30: 830 | 31: 328 | 32: 31 | 33: 233 | 34: LIVRE | 35: 635 | 36: 435 | 37: LIVRE | 38: LIVRE | 39: 839 | 
+40: 39 | 41: 141 | 42: 842 | 43: 843 | 44: 642 | 45: 144 | 46: 146 | 47: 747 | 48: 148 | 49: 545 | 
+50: 650 | 51: 751 | 52: 752 | 53: 553 | 54: 951 | 55: 654 | 56: 456 | 57: 954 | 58: 355 | 59: 859 | 
+60: 960 | 61: 861 | 62: 862 | 63: 460 | 64: 364 | 65: 365 | 66: 766 | 67: 765 | 68: 168 | 69: 769 | 
+70: 868 | 71: 768 | 72: 563 | 73: 573 | 74: 974 | 75: 74 | 76: 264 | 77: 663 | 78: 675 | 79: 979 | 
+80: 163 | 81: 470 | 82: 482 | 83: 883 | 84: 682 | 85: 785 | 86: 583 | 87: 487 | 88: 950 | 89: 689 | 
+90: 789 | 91: 691 | 92: 392 | 93: 692 | 94: 894 | 95: 774 | 96: 596 | 97: LIVRE | 98: 398 | 99: 699 | 
+
+Posicoes livres (10): 1 2 3 4 5 27 34 37 38 97 
+
+=== TESTE DE BUSCA ===
+Busca da chave 950: ENCONTRADA na posicao 88 com 39 comparacoes (sondagens)
+Busca da chave 774: ENCONTRADA na posicao 95 com 22 comparacoes (sondagens)
+Busca da chave 163: ENCONTRADA na posicao 80 com 18 comparacoes (sondagens)
+Busca da chave 1000: NAO ENCONTRADA, com 2 comparacoes (sondagens)
